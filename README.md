@@ -1,4 +1,6 @@
-Anaconda/BMCS suite installation instruction
+Download and unzip the BMCS folder
+
+Anaconda/BMCS suite installation instruction:
 
 1. In your browser, locate the anaconda package in the repository: https://www.anaconda.com/distribution/#download-section
 2. Click on the version appropriate for your operating system (It is macOS Installer by default!!!)
