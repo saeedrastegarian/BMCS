@@ -1,4 +1,4 @@
-Download and unzip the BMCS folder
+Download and unzip the BMCS.rar folder
 
 Anaconda/BMCS suite installation instruction:
 
