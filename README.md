@@ -16,3 +16,11 @@
        pip install --extra-index-url anaconda.org/rosoba bmcs
 
   8. Still in the command prompt, type in the suite name “bmcs” and press enter. Upon a successful installation the bmcs launcher window     will appear. If not, go to the Section III Troubleshooting.
+
+
+ -  Troubleshooting
+
+    1. In the Anaconda prompt, type “ipython” and press enter
+    2. Type “import bmcs.api” and press enter
+    3. Report the error to saeed.rastegarian@rwth-aachen.de
+      
